@@ -1,0 +1,7 @@
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\01.类型-类\bin\Debug\01.类型-类.exe.config
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\01.类型-类\bin\Debug\01.类型-类.exe
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\01.类型-类\bin\Debug\01.类型-类.pdb
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\01.类型-类\obj\Debug\01.类型-类Classes.csproj.CoreCompileInputs.cache
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\01.类型-类\obj\Debug\01.类型-类.exe
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\01.类型-类\obj\Debug\01.类型-类.pdb
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\01.类型-类\obj\Debug\01.类型-类Classes.csproj.AssemblyReference.cache

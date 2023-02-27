@@ -1,0 +1,14 @@
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\bin\Debug\netcoreapp3.1\Console-LINQ.exe
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\bin\Debug\netcoreapp3.1\Console-LINQ.deps.json
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\bin\Debug\netcoreapp3.1\Console-LINQ.runtimeconfig.json
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\bin\Debug\netcoreapp3.1\Console-LINQ.runtimeconfig.dev.json
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\bin\Debug\netcoreapp3.1\Console-LINQ.dll
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\bin\Debug\netcoreapp3.1\Console-LINQ.pdb
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\obj\Debug\netcoreapp3.1\Console-LINQ.csproj.AssemblyReference.cache
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\obj\Debug\netcoreapp3.1\Console-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\obj\Debug\netcoreapp3.1\Console-LINQ.AssemblyInfoInputs.cache
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\obj\Debug\netcoreapp3.1\Console-LINQ.AssemblyInfo.cs
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\obj\Debug\netcoreapp3.1\Console-LINQ.csproj.CoreCompileInputs.cache
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\obj\Debug\netcoreapp3.1\Console-LINQ.dll
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\obj\Debug\netcoreapp3.1\Console-LINQ.pdb
+E:\Code_To_GitHub\NET-StudyNotes-Mediinfo-HangZhou\Project-语法学习\CSharp语言\Console-LINQ\obj\Debug\netcoreapp3.1\Console-LINQ.genruntimeconfig.cache
